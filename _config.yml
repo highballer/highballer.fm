@@ -1,0 +1,33 @@
+actors:
+  tionlo:
+    image_url: /images/actors/tionlo.png
+    name: ションロー
+    url: https://github.com/daybysay 
+  junjun:
+    image_url: /images/actors/junjun.jpeg
+    name: じゅんじゅん
+    url: https://github.com/jujunjun110
+author: ションロー, じゅんじゅん
+description: ションローとじゅんじゅんの2人が日常に思ったことを話すラジオです。
+description_long: ションローとじゅんじゅんの2人が日常に思ったことを話すラジオです。
+email: highballer.fm@gmail.com
+exclude:
+  - docker
+  - docker-compose.yml
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE.txt
+  - README.md
+  - vendor
+google_analytics:
+hashtag: highballer.fm
+itunes_podcast_url:
+keywords: 
+language: ja
+markdown: kramdown
+permalink: /episode/:title
+sass:
+  sass_dir: css
+timezone: Asia/Tokyo
+title: highballer.fm
+url: https://highballer.github.io/
